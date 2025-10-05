@@ -1,0 +1,39 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# dotenv environment variables
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# VSCode settings
+.vscode/
+
+# Coverage directory
+coverage/
+
+# Python virtual environment
+venv/
+
+# Production files
+*.tgz
+
+# Misc
+*.swp
+*.swo
